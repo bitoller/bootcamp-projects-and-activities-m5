@@ -70,3 +70,7 @@ Para rodar todos os testes da aplicação de uma vez, execute o seguinte comando
 ```shell
 pytest --testdox
 ```
+<br>
+<br>
+
+<p align="center"><b>Taken from Kenzie Academy Brasil</b></p>

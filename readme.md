@@ -23,7 +23,10 @@ Description under construction.<br />
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 ## S2-20-M5 - 07/31/23 - KOPA DO MUNDO
-Still coding.<br />
+Description under construction.<br />
+
+<a href="https://github.com/bitoller/bootcamp-projects-and-activities-m5/tree/main/src/M5-SPRINT-2/S2-20-M5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
+<a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
 <hr />
 
