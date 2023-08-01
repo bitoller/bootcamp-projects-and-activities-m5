@@ -17,16 +17,20 @@ The `M` stands for `Modules` <strong>e.g.</strong> `M5` means `Module 5`. That's
 <hr />
 
 ## S1-21-M5 - 07/24/23 - KIOSQUE
-Description under construction.<br />
+For this activity I had to develop a REST API for a fake client who manages a food store, using Python. The purpose of this API is to manage the store, verify if there's a product in the menu, filter food by category, calculate client's tabs and more. The application will include routes for creating, listing, updating and deleting products and tabs.<br />
 
 <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m5/tree/main/src/M5-SPRINT-1/S1-21-M5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
 
+`scaffolding` `function` `variables` `data type` `boolean` `conditionals` `objects` `array` `methods` `API creation` `CRUD` `middleware` `unit testing` `+`
+
 ## S2-20-M5 - 07/31/23 - KOPA DO MUNDO
-Description under construction.<br />
+For this activity I had to develop a REST API for a fake client who manages sport events, using Python and Django. The purpose of this API is to manage the soccer teams. The application will include routes for creating, listing, updating and deleting the teams.<br />
 
 <a href="https://github.com/bitoller/bootcamp-projects-and-activities-m5/tree/main/src/M5-SPRINT-2/S2-20-M5" target="_blank"> <img src="./src/assets/code_purple.png"> </a> &nbsp; &nbsp;
 <a href="#" target="_blank"> <img src="./src/assets/page_purple.png"> </a> &nbsp; &nbsp;
+
+`scaffolding` `function` `variables` `data type` `boolean` `conditionals` `objects` `array` `methods` `API creation` `CRUD` `middleware` `unit testing` `django` `sqlite` `venv` `datetime` `+`
 
 <hr />
 
